@@ -1,0 +1,101 @@
+{
+  "match/current": {
+    "id": "52ae194d-5f1d-4cdd-abc4-878c290ba683",
+    "current": true,
+    "left": {
+      "id": "X7ivb0pcjX6eoZYS",
+      "wins": 0
+    },
+    "right": {
+      "id": "TfvSoSW4XOk1m8ZN",
+      "wins": 0
+    },
+    "matchType": "bo3",
+    "vetos": [
+      {
+        "teamId": "X7ivb0pcjX6eoZYS",
+        "mapName": "de_mirage",
+        "side": "NO",
+        "type": "ban",
+        "mapEnd": false
+      },
+      {
+        "teamId": "TfvSoSW4XOk1m8ZN",
+        "mapName": "de_anubis",
+        "side": "NO",
+        "type": "ban",
+        "mapEnd": false
+      },
+      {
+        "teamId": "X7ivb0pcjX6eoZYS",
+        "mapName": "de_inferno",
+        "side": "NO",
+        "type": "pick",
+        "mapEnd": false
+      },
+      {
+        "teamId": "TfvSoSW4XOk1m8ZN",
+        "mapName": "de_nuke",
+        "side": "NO",
+        "type": "pick",
+        "mapEnd": false
+      },
+      {
+        "teamId": "X7ivb0pcjX6eoZYS",
+        "mapName": "de_overpass",
+        "side": "NO",
+        "type": "ban",
+        "mapEnd": false
+      },
+      {
+        "teamId": "TfvSoSW4XOk1m8ZN",
+        "mapName": "de_vertigo",
+        "side": "NO",
+        "type": "ban",
+        "mapEnd": false
+      },
+      {
+        "teamId": "",
+        "mapName": "de_ancient",
+        "side": "NO",
+        "type": "decider",
+        "mapEnd": false
+      },
+      {
+        "teamId": "",
+        "mapName": "",
+        "side": "NO",
+        "type": "pick",
+        "mapEnd": false
+      },
+      {
+        "teamId": "",
+        "mapName": "",
+        "side": "NO",
+        "type": "pick",
+        "mapEnd": false
+      }
+    ],
+    "startTime": 0,
+    "game": "csgo",
+    "_id": "phXHKdlpTSmCyz2m"
+  },
+  "teams/X7ivb0pcjX6eoZYS": {
+    "name": "Vedoucí",
+    "shortName": "VDC",
+    "country": "CZ",
+    "logo": "",
+    "game": "csgo",
+    "extra": {},
+    "_id": "X7ivb0pcjX6eoZYS"
+  },
+  "teams/TfvSoSW4XOk1m8ZN": {
+    "name": "Děti",
+    "shortName": "DĚTI",
+    "country": "CZ",
+    "logo": "",
+    "game": "csgo",
+    "extra": {},
+    "_id": "TfvSoSW4XOk1m8ZN"
+  }
+}
